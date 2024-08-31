@@ -1,0 +1,6 @@
+Team Detail
+
+	
+	a. Team name: Team Global
+	b. Team leader name: Tej Prakash Singh
+	c. Problem Statement: Ai In Blockchain	
