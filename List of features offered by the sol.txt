@@ -1,0 +1,22 @@
+List of features offered by the solution
+
+
+AI Enhancing Blockchain like :- 
+Smart Characters
+Security
+Data Management
+
+Applications of AI and Blockchain Together:- 
+1.  Supply Chain Management
+2.  Helthcare 
+3.  Finance
+
+Blockchain Enhancing AI: 
+Data Integrity
+Decentralised AI
+AI Model Sharing
+
+
+Future Outlook:- 
+1.  AI-Driven Decentralized Apps (dApps)
+2.  Autonomous Organizations
